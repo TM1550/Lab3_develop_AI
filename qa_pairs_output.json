@@ -1,0 +1,41 @@
+{
+  "qa_pairs": [
+    {
+      "question": "What do you need to wash your dishes with baking soda?",
+      "answer": "A dishwashing sponge\n\nWarm water",
+      "score": 0.4444582760334015,
+      "start": 193,
+      "end": 225
+    },
+    {
+      "question": "What do you need to wash dishes with baking soda?",
+      "answer": "A dishwashing sponge\n\nWarm water",
+      "score": 0.514208972454071,
+      "start": 193,
+      "end": 225
+    },
+    {
+      "question": "How do you clean dishes with baking soda?",
+      "answer": "into the bottom of a sink or basin",
+      "score": 0.1301463097333908,
+      "start": 828,
+      "end": 862
+    },
+    {
+      "question": "What do you need to wash your dishes with Baking soda?",
+      "answer": "A dishwashing sponge\n\nWarm water",
+      "score": 0.7105883955955505,
+      "start": 193,
+      "end": 225
+    },
+    {
+      "question": "What does baking soda do to clean dishes?",
+      "answer": "remove grease",
+      "score": 0.6425135135650635,
+      "start": 116,
+      "end": 129
+    }
+  ],
+  "total_pairs": 5,
+  "successful_answers": 5
+}
