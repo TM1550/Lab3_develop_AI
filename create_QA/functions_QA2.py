@@ -3,7 +3,7 @@ import re
 from typing import Dict, Any, List, Tuple, Callable
 from tqdm import tqdm
 
-from functions_QA import validate_model_output, calculate_f1_score, validate_dataset_item, load_json_dataset, normalize_text
+from .functions_QA import validate_model_output, calculate_f1_score, validate_dataset_item, load_json_dataset, normalize_text
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

@@ -4,7 +4,8 @@
 """
 
 import logging
-from question_answer_pipeline import generate_qa_pairs_from_text
+from create_QA import generate_qa_pairs_from_text 
+#from question_answer_pipeline import generate_qa_pairs_from_text можно импортировать таким образом, когда файл question_answer_pipeline находится в рабочей папке
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
