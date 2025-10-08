@@ -7,7 +7,7 @@ import torch
 from transformers import pipeline
 
 from .functions_QA2 import smart_qa_with_aggregation, read_txt_file
-from script import generate_questions, filter_answerable_questions
+from .script import generate_questions, filter_answerable_questions
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
